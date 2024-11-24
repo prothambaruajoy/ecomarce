@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navbarLink .active {
+    color: rgb(149, 56, 226);
+    font-weight: bold;
+}
+
+.category .active {
+    background: rgb(149, 56, 226);
+    color: #fff;
+}
+
+/* .dashboard-btn .active { 
+    background: #fff !important;
+    color: rgb(149, 56, 226) !important;
+} */
